@@ -30,7 +30,8 @@ Eager to continuously learn and apply emerging technologies and frameworks.
 
 Here are some of my most recent and exciting projects:
 
-1. <a href="https://github.com/Nikolay-23/BestStoreMVC">BestStoreMVC</a>
+    <a href="https://github.com/Nikolay-23/BestStoreMVC">BestStoreMVC</a>
+    <br>
     <br>
     Developed an E-Commerce Web Application using ASP.NET Core, focusing on user authentication, transaction feature with PayPal and focused on user needs. (Udemy course project)
     <br>
