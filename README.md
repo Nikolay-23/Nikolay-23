@@ -38,3 +38,8 @@ Here are some of my most recent and exciting projects:
   - Role: Developer 👨‍💻
     <br>
   - Tech Stack: ASP.NET Core MVC, ASP.NET Core Web API, EF Core 8, JS, HTML, CSS, ,Bootstrap
+ # 🌍 Education 
+ SoftUni (Software University)
+ <br>
+ Technical University - Gabrovo(Expected Graduation: 2028)
+ 
