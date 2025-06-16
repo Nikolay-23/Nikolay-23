@@ -38,8 +38,20 @@ Here are some of my most recent and exciting projects:
   - Role: Developer 👨‍💻
     <br>
   - Tech Stack: ASP.NET Core MVC, ASP.NET Core Web API, EF Core 8, JS, HTML, CSS, ,Bootstrap
+
+  <br>
+  <a href="https://github.com/TOT102/med-server">Med-Server</a>
+  <br>
+  My colleague and I developed an application that tracks changes in blood analysis indicators from <a href="https://bodimed.com/en/">BODIMED</a>, by parsing PDF test results and storing the extracted data as JSON files on a remote server.The user interface give you access to chose different types of indicators.
+  <br>
+  <br>
+   - Role: Developer 👨‍💻
+   <br>
+   - Tech Stack: Python, Flask, JS, HTML, CSS 
+  
  # 🌍 Education 
  SoftUni (Software University)
  <br>
  Technical University - Gabrovo(Expected Graduation: 2028)
+ 
  
