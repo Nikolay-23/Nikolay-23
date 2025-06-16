@@ -34,5 +34,6 @@ Here are some of my most recent and exciting projects:
     <br>
     Developed an E-Commerce Web Application using ASP.NET Core, focusing on user authentication, transaction feature with PayPal and focused on user needs. (Udemy course project)
     <br>
+    <br>
      - Role: Developer 👨‍💻
      - Tech Stack: ASP.NET Core MVC, ASP.NET Core Web API, EF Core 8, JS, HTML, CSS, ,Bootstrap
